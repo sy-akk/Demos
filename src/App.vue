@@ -4,7 +4,6 @@
       <h1>示例集合</h1>
       <el-menu mode="horizontal" router>
         <el-menu-item index="/threejs">Three.js 示例</el-menu-item>
-        <el-menu-item index="/cesium">Cesium 示例</el-menu-item>
         <el-menu-item index="/vue">Vue 示例</el-menu-item>
       </el-menu>
     </el-header>

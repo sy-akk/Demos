@@ -30,11 +30,6 @@ const router = createRouter({
       ]
     },
     {
-      path: '/cesium',
-      component: () => import('../cesium-demos/CesiumDemos.vue'),
-      meta: { title: 'Cesium 示例' }
-    },
-    {
       path: '/vue',
       component: () => import('../vue-demos/VueDemos.vue'),
       meta: { title: 'Vue 示例' }
